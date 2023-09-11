@@ -1,16 +1,13 @@
-# Gradle files
+# Sugar Company Nigerian
 .gradle/
-build/
+Company Register with CAC
 
-# Local configuration file (sdk path, etc)
-local.properties
+# content creator/fashion designer computer Application
 
 # Log/OS Files
 *.log
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
+# cameral laptor machaine /
 .cxx/
 *.apk
 output.json
@@ -19,15 +16,13 @@ output.json
 *.iml
 .idea/
 misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+facebook,instagram,youtube,sanpchat,tiktok,whatsapp
 
 # Keystore files
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Google Services (http//www.sugarsecretcompany.com
 
 # Android Profiling
 *.hprof
